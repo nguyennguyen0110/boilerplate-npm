@@ -1,6 +1,12 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Nguyen",
+	"description": "This project used in freeCodeCamp Back End course",
+  	"license": "MIT",
+  	"version": "1.0.0",
+	"keywords": [
+		"freecodecamp"
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -10,6 +16,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://github.com/nguyennguyen0110/boilerplate-npm.git"
 	}
 }
